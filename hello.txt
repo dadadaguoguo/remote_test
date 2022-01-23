@@ -1,3 +1,4 @@
 Hello git!
 hello git!
 4th commit
+master modify base '4th commit history version ' 
